@@ -1,9 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="400"/>
   </div>
+  ---
   <div id="codewars" align="center">
   <img src="https://www.codewars.com/users/HeikkeB/badges/large" alt""/>
   </div>
+  ---
   <div id="hello" align="center">
   <img src="https://komarev.com/ghpvc/?username=HeikkeB&style=flat-square&color=green" alt=""/>
   <h1>
@@ -11,6 +13,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -24,6 +27,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="react" alt="react" width="100" height="100"/>&nbsp;
   </div>
+  
+  ---
+
+### :fire: My Stats :
+
+<div align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HeikkeB&theme=dark&background=212529)](https://git.io/streak-stats)
+</div>
 <!--
 **HeikkeB/HeikkeB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
