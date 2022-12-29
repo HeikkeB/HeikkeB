@@ -7,7 +7,7 @@
   </div>
   ---
   <div id="hello" align="center">
-  <img src="https://komarev.com/ghpvc/?username=HeikkeB&style=flat-square&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=HeikkeB&style=flat-square&color=tokyonight" alt=""/>
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
