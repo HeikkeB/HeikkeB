@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/eYilisUwipOEM/giphy.gif" width="500"/>
+  <img src="[https://media.giphy.com/media/eYilisUwipOEM/giphy.gif](https://giphy.com/clips/cameronpaulsmith-cat-typing-meme-nuufztgCvyJZIuSkgd)" width="500"/>
 </div>
 
 ### Hi there 👋
