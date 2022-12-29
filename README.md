@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="400"/>
   </div>
   <div id="main" align="center">
-  <img src="[CODEWARS](https://www.codewars.com/users/HeikkeB/badges/large)" alt""/>
+  <img src="https://www.codewars.com/users/HeikkeB/badges/large" alt""/>
   <img src="https://komarev.com/ghpvc/?username=HeikkeB&style=flat-square&color=green" alt=""/>
   <h1>
-  Hey there 👋
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
