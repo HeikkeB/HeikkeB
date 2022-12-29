@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![CODEWARS](https://www.codewars.com/users/HeikkeB/badges/large)
+
+![](https://komarev.com/ghpvc/?username=HeikkeB)
