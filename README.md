@@ -1,8 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="400"/>
+  </div>
+  <div id="main" align="center">
+  <img src="[CODEWARS](https://www.codewars.com/users/HeikkeB/badges/large)" alt""/>
+  <img src="https://komarev.com/ghpvc/?username=HeikkeB&style=flat-square&color=green" alt=""/>
+  <h1>
+  Hey there 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
-
-### Hi there 👋
 
 <!--
 **HeikkeB/HeikkeB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![CODEWARS](https://www.codewars.com/users/HeikkeB/badges/large)
 
-![](https://komarev.com/ghpvc/?username=HeikkeB)
