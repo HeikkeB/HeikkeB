@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="400"/>
   </div>
-  ---
+
   <div id="codewars" align="center">
   <img src="https://www.codewars.com/users/HeikkeB/badges/large" alt""/>
   </div>
-  ---
+
   <div id="hello" align="center">
   <img src="https://komarev.com/ghpvc/?username=HeikkeB&style=flat-square&color=3e1f47" alt=""/>
   <h1>
