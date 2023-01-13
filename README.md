@@ -35,7 +35,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HeikkeB&theme=tokyonight&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeikkeB&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeikkeB&show_icons=true&theme=radical)
 <!--
 **HeikkeB/HeikkeB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
