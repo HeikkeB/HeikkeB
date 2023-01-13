@@ -31,13 +31,9 @@
   ---
 
 ### :fire: My Stats :
-<div>
-  <div>
+<div> 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HeikkeB&theme=tokyonight&border_radius=5&mode=weekly)](https://git.io/streak-stats)
-  </div>
-  <div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeikkeB&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
 </div>
 
 <!--
