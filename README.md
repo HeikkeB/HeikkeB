@@ -31,7 +31,7 @@
   ---
 
 ### :fire: My Stats :
-<div display="flex">
+<div>
   <div>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HeikkeB&theme=tokyonight&border_radius=5&mode=weekly)](https://git.io/streak-stats)
   </div>
