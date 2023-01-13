@@ -31,10 +31,10 @@
   ---
 
 ### :fire: My Stats :
-<div> 
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HeikkeB&theme=tokyonight&border_radius=5&mode=weekly)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeikkeB&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 <!--
 **HeikkeB/HeikkeB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
