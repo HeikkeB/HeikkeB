@@ -16,7 +16,7 @@
 <div id="view" align="center">
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/HeikkeB/count.svg" />
 </p>
   <img src="https://komarev.com/ghpvc/?username=HeikkeB&style=flat-square&color=3e1f47" alt="" width="150px" height="30px"/>
 </div>
