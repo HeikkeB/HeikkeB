@@ -5,11 +5,11 @@
   </h1>   
 </div>
 <div id="social" align="center">
-  <a href="https://discord.gg/666999#0164"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/PrNzJdUQZA"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/666999#0164"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="vldbltn@gmail.com"><img width="32px" src="https://w7.pngwing.com/pngs/50/642/png-transparent-gmail-email-computer-icons-google-logo-gmail-angle-rectangle-triangle.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/666999#0164"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://t.me/keyBoardManF"><img width="32px" src="https://e7.pngegg.com/pngimages/1014/805/png-clipart-blue-and-white-logo-telegram-logo-telegram-blue-angle.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </div>
   <br/>
