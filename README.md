@@ -5,7 +5,7 @@
   </h1>   
 </div>
 <div id="social" align="center">
-  <a href="https://discord.gg/PrNzJdUQZA"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/PrNzJdUQZA"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:vldbltn@gmail.com"><img width="32px" src="https://cdn2.downdetector.com/static/uploads/logo/image21.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
