@@ -30,6 +30,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </div>
 
+---
+
 ### :hammer_and_wrench: Languages and Technologies :
 
 <div align="center">
