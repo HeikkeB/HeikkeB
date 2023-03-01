@@ -9,11 +9,14 @@
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="400"/>
 </div>
   <br/>
- <div id="codewars" align="center">
-  <img src="https://www.codewars.com/users/HeikkeB/badges/large" alt""/>
+<div id="codewars" align="center">
+  <img src="https://www.codewars.com/users/HeikkeB/badges/large" alt""/>  
+</div>
+  <br/>
+<div id="view" align="center">
   <img src="https://komarev.com/ghpvc/?username=HeikkeB&style=flat-square&color=3e1f47" alt="" width="150px" height="30px"/>
- </div>
-
+</div>
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
