@@ -9,7 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="vldbltn@gmail.com"><img width="32px" src="https://w7.pngwing.com/pngs/50/642/png-transparent-gmail-email-computer-icons-google-logo-gmail-angle-rectangle-triangle.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/keyBoardManF"><img width="32px" src="https://e7.pngegg.com/pngimages/1014/805/png-clipart-blue-and-white-logo-telegram-logo-telegram-blue-angle.png"/></a>
+  <a href="https://t.me/keyBoardManF"><img width="32px" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </div>
   <br/>
