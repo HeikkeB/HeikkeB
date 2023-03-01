@@ -29,10 +29,6 @@
   <a href="https://t.me/VldBltn0"><img width="32px" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </div>
-  <br/>
-
-  
----
 
 ### :hammer_and_wrench: Languages and Technologies :
 
@@ -48,10 +44,10 @@
   
   ---
 
-<!--### :fire: My Stats :
+### :fire: My Stats :
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HeikkeB&theme=tokyonight&border_radius=5&mode=weekly)](https://git.io/streak-stats)
-  -->
+ 
 <!--
 **HeikkeB/HeikkeB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
