@@ -4,6 +4,9 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>   
 </div>
+
+### 💬 My contacts :
+
 <div id="social" align="center">
   <a href="https://discord.gg/PrNzJdUQZA"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
