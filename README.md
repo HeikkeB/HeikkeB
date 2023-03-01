@@ -19,8 +19,6 @@
   </h1>   
 </div>
 
----
-
 ### 💬 My contacts :
 
 <div id="social" align="center">
