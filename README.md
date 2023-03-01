@@ -1,3 +1,17 @@
+<div id="header" align="center" border-radius="10px">
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="400"/>
+</div>
+  <br/>
+<div id="codewars" align="center">
+  <img src="https://www.codewars.com/users/HeikkeB/badges/large" alt""/>  
+</div>
+  <br/>
+<div id="view" align="center">
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/HeikkeB/count.svg" />
+</p>
+</div>
 <div id="hello" align="center">
   <h1>
     Hey there
@@ -16,24 +30,11 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </div>
   <br/>
-<div id="header" align="center" border-radius="10px">
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="400"/>
-</div>
-  <br/>
-<div id="codewars" align="center">
-  <img src="https://www.codewars.com/users/HeikkeB/badges/large" alt""/>  
-</div>
-  <br/>
-<div id="view" align="center">
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/HeikkeB/count.svg" />
-</p>
-</div>
+
   
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Technologies :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>&nbsp;
